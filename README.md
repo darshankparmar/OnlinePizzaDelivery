@@ -2,7 +2,7 @@
 
 👉 Download the zip file
 
-👉 Extract the file and copy OnlinePizzaDelivery folder
+👉 Extract the file and copy **OnlinePizzaDelivery** folder
 
     Paste inside root directory
         * For xampp xampp/htdocs 
@@ -29,5 +29,5 @@
     
  ## Credential for Admin panel :
 
-> username:"admin"       
-> password:"admin"
+> username: **admin**       
+> password: **admin**
