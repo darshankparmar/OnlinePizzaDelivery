@@ -1,6 +1,6 @@
 # OnlinePizzaDelivery
 
-## See Demo of website: http://dkp.infinityfreeapp.com/
+## See Demo of website: 
 
 ## Project SetUp
 
