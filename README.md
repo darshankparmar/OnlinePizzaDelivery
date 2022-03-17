@@ -1,6 +1,6 @@
 # OnlinePizzaDelivery
 
-## See Demo of website: 
+## See Demo of website: http://onlinepizzadelivery.infinityfreeapp.com/OnlinePizzaDelivery/
 
 ## Project SetUp
 
